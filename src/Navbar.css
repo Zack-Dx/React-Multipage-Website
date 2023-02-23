@@ -1,0 +1,27 @@
+.navbar {
+  background-color: #fff !important;
+}
+
+.navbar-brand {
+  font-size: 1.9rem !important;
+  color: #565387 !important;
+}
+
+.navbar .active {
+  font-weight: bold;
+  border-bottom: 1px solid #565387;
+}
+.navbar .thealan.active {
+  font-weight: normal;
+  border-bottom: none;
+}
+
+.nav-link {
+  font-size: 1.3rem !important;
+  text-transform: capitalize;
+}
+
+.nav-link:hover,
+.navbar-brand:hover {
+  color: #3498db !important;
+}
